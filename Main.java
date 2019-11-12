@@ -16,6 +16,7 @@ public class Main {
     }
 
     private static char[] passGen(int length){
+    //aa
         System.out.print("Your OTP is : ");
         String bigChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         String littleChars = "abcdefghijklmnopqrstuvwxyz";
